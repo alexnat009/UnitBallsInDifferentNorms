@@ -23,7 +23,7 @@ This project visualizes **unit balls** in different randomly chosen **Lp norms**
 
 3. Run the script:  
    ```bash
-   python unit_ball_visualization.py
+   python main.py
    ```
 
 ## **Usage**  
