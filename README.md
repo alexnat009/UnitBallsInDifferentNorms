@@ -12,7 +12,7 @@ This project visualizes **unit balls** in different randomly chosen **Lp norms**
 
 1. Clone the repository:  
    ```bash
-   git clone [https://github.com/your-username/unit-ball-visualization.git](https://github.com/alexnat009/UnitBallsInDifferentNorms.git)
+   git clone https://github.com/alexnat009/UnitBallsInDifferentNorms.git
    cd unit-ball-visualization
    ```
 
